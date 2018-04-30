@@ -13,5 +13,5 @@ def move
 end
 
 def input_to_index(num)
-  for()
+  for i in 9
 end
