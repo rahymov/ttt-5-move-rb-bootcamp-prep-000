@@ -9,7 +9,7 @@ end
 # code your input_to_index and move method here!
 # player  default top left X
 
-def move(board, index, value)
+def move(board, index, value="X")
   board[index] = value
 end
 
