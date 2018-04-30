@@ -13,5 +13,7 @@ def move
 end
 
 def input_to_index(num)
+  if
   for i in 9 do
+    
 end
