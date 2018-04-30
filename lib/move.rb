@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
-
+# it says default top left X
 def move(array, index, value="X")
   
 end
