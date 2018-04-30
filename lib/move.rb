@@ -13,7 +13,5 @@ def move
 end
 
 def input_to_index(num)
-  if num < 10
-  for i+1 in 9 do
-    board[i] = 
+ 
 end
