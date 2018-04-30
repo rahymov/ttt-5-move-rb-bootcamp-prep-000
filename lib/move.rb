@@ -13,5 +13,5 @@ def move
 end
 
 def input_to_index(num)
-  converted_input = num.to_a
+  converted_input = 
 end
