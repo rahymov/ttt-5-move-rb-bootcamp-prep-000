@@ -10,7 +10,7 @@ end
 # player  default top left X
 
 def move(array, index, value)
-  board[index] = value
+  array[index] = value
 end
 
 def input_to_index(user_input)
