@@ -12,6 +12,6 @@ def move
   
 end
 
-def input_to_index(board, )
+def input_to_index(board, index, value)
  
 end
