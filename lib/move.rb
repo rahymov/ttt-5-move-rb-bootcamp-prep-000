@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 
-def move(board,index, "X")
+def move(board,index)
   
 end
 
